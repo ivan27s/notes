@@ -1,0 +1,40 @@
+
+.auth-form {
+    margin:  100px auto;
+    padding: 30px;
+    background: bisque;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.card {
+    background: bisque;
+}
+.add-note{
+     margin-top: 20px;
+ }
+
+.navbar-notes{
+    background-color: #FAD4C4;
+}
+.nav-item-exit{
+    position: absolute;
+    right: 4vw;
+}
+
+.spinner{
+    display: flex;
+    justify-content: center;
+}
+.auth-alert{
+    position: absolute;
+    top: 10px;
+    left: 5vw;
+    right: 5vw;
+    text-align: center;
+}
+.btn{
+    opacity: 0.8;
+}
+.modal-notes{
+    background-color: bisque;
+}
